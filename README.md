@@ -1,1 +1,1 @@
-# Research Enabled AI Assistant
+# REAIA Databricks
