@@ -1,1 +1,1 @@
-# REAIA
+# Research Enabled AI Assistant
